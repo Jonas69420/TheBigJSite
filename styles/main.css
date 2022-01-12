@@ -1,0 +1,19 @@
+*{
+    background-color: #272727;
+
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 72px;
+    color: #fdfdfd;
+
+    padding: 0;
+    margin: 0;
+}
+
+.center{
+    height: 100vh;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
